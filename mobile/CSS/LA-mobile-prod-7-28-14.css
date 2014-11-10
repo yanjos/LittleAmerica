@@ -1,98 +1,107 @@
-.logo.header {
-    background:none repeat scroll 0 0 #af2900;
-}
 #header {
-    background:none repeat scroll 0 0 #af2900;
-    border-bottom:2px solid #fff;
-    color:#fff;
+    background: #111111;
+    color: #ffffff;
+    border-color: #2A2A2A;
+    background-color: #111111;
 }
 #header .ui-btn-up-c {
-    background-image:linear-gradient(#ba3225, #6c2712);
+    background: #333333;
+    color: #ffffff;
+    border-color: #222222;
+    background-color: #333333;
 }
-.ui-content {
-    background-color:#e7e4dc;
+#header .ui-btn-hover-c {
+    background: #444444;
+    color: #ffffff;
+    border-color: #000000;
+    background-color: #444444;
 }
-.ui-focus, .ui-btn:focus {
-    box-shadow:0 0 3px #af2900 inset, 0 0 9px #af2900;
+#header .ui-btn-down-c {
+    background: #3D3D3D;
+    color: #ffffff;
+    border-color: #000000;
+    background-color: #3D3D3D;
 }
-.header>img {
-    margin-top:21px;
+.ui-body-c {
+    background: #ffffff;
+    color: #000000;
+    border-color: #B3B3B3;
+    background-color: #ffffff;
 }
-#content_wrapper {
-    padding-top:25px!important;
+.ui-content .ui-btn-up-c {
+    background: #EEEEEE;
+    color: #444444;
+    border-color: #CCCCCC;
+    background-color: #EEEEEE;
 }
-.ui-menu-button-container .ui-btn .ui-icon {
-    height:100%;
+.ui-content .ui-btn-hover-c {
+    background: #DADADA;
+    color: #101010;
+    border-color: #BBBBBB;
+    background-color: #DADADA;
 }
-.ui-btn-up-b {
-    background:linear-gradient(#ba3225, #6c2712) repeat scroll 0 0 #af2900;
+.ui-content .ui-btn-down-c {
+    background: #FDFDFD;
+    color: #111111;
+    border-color: #808080;
+    background-color: #FDFDFD;
 }
-.dwv.ui-header.ui-bar-b {
-    background:none repeat scroll 0 0 #af2900;
-}
-.ui-msm-profileloginpagebean.ui-page.ui-body-c.ui-page-active.portrait {
-    background-color:#e7e4dc;
-}
-.ui-bar-b {
-    background:linear-gradient(#ba3225, #6c2712) repeat scroll 0 0 #af2900!important;
-}
-.ui-menu-button-container .ui-btn .ui-btn-inner {
-    line-height:16px;
-}
-.ui-menu-button-container .ui-btn .ui-btn-inner .ui-btn-text {
-    background-image:linear-gradient(#ba3225, #6c2712);
-    border-radius:4px;
-    color:#fff;
-    padding-top:11px;
-    height:24%;
-    line-height:1em;
-    vertical-align:middle;
+#footer {
+    background: #111111;
+    color: #ffffff;
+    border-color: #2A2A2A;
+    background-color: #111111;
 }
 #footer .ui-btn-up-c {
-    background-image:linear-gradient(#ba3225, #6c2712);
+    background: #333333;
+    color: #ffffff;
+    border-color: #222222;
+    background-color: #333333;
 }
-.ui-dialog-contain {
-    background:none repeat scroll 0 0 #af2900;
+#footer .ui-btn-hover-c {
+    background: #444444;
+    color: #ffffff;
+    border-color: #000000;
+    background-color: #444444;
 }
-.ui-btn-hover-c {
-    border-color:#af2900!important;
-}
-.ui-btn-active {
-    background:linear-gradient(#ba3225, #6c2712) repeat scroll 0 0 #af2900;
-}
-.ui-body-c .ui-link {
-    color:#af2900;
-}
-.ui-body-c .ui-link:hover {
-    color:#333!important;
-}
-.ui-btn-hover-b {
-    background:linear-gradient(#ba3225, #6c2712) repeat scroll 0 0 #af2900;
-}
-.ui-btn-up-b {
-    background:linear-gradient(#ba3225, #6c2712) repeat scroll 0 0 #af2900;
+#footer .ui-btn-down-c {
+    background: #3D3D3D;
+    color: #ffffff;
+    border-color: #000000;
+    background-color: #3D3D3D;
 }
 .ui-tabbedBar {
-    border-color:#af2900;
+    background: #6746eb;
+    border-color: rgba(255, 255, 255, 0);
+    background-color: #6746eb;
 }
-.ui-focus, .ui-btn:focus {
-    box-shadow:0 0 3px #af2900 inset, 0 0 9px #af2900!important;
+.logo.header {
+    background-color: #595959;
 }
-.ui-input-text.ui-focus, .ui-input-search.ui-focus {
-    box-shadow:0 0 12px #af2900!important;
+.logo.footer {
+    background-color: #595959;
 }
-.ui-btn-inner {
-    overflow:visible;
+.logo.site_info {
+    color: #FFF;
 }
-.ui-menu-button-container .ui-btn {
-    width:93px!important;
+.dwv.ui-header.ui-bar-b {
+    background-color: #ed15ed;
 }
-.ui-expander-indicator-more a, .ui-expander-indicator-less a {
-    color:#af2900;
+.header-section {
+    text-align: center;
 }
-.ui-btn-container {
-    padding-top:10px;
+.hcommline {
+    clear: both;
+    float: none;
 }
-.ui-menu-button-container .ui-menu-button {
-    padding:0!important;
+.logo {
+    clear: both;
+    float: none;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.hs-logo {
+    float: none;
 }
