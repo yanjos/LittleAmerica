@@ -1,0 +1,119 @@
+.logo.header {
+    background:none repeat scroll 0 0 #af2900;
+}
+.card-required-field label:after, #termDetailLink:after {
+    content:'*';
+}
+.card-required-field[for="j_idt48-sectionOrder-j_idt271-paymentInfoFieldOrder-cardHolderName"]:after {
+    content:'';
+}
+#header {
+    background:none repeat scroll 0 0 #af2900;
+    border-bottom:2px solid #fff;
+    color:#fff;
+}
+#header .ui-btn-up-c {
+    background-image:linear-gradient(#ba3225, #6c2712);
+}
+.ui-content {
+    background-color:#e7e4dc;
+}
+.ui-focus, .ui-btn:focus {
+    box-shadow:0 0 3px #af2900 inset, 0 0 9px #af2900;
+}
+.header>img {
+    margin-top:21px;
+}
+#content_wrapper {
+    padding-top:25px!important;
+}
+.ui-menu-button-container .ui-btn .ui-icon {
+    height:100%;
+}
+.ui-btn-up-b {
+    background:linear-gradient(#ba3225, #6c2712) repeat scroll 0 0 #af2900;
+}
+.dwv.ui-header.ui-bar-b {
+    background:none repeat scroll 0 0 #af2900;
+}
+.ui-msm-profileloginpagebean.ui-page.ui-body-c.ui-page-active.portrait {
+    background-color:#e7e4dc;
+}
+.ui-bar-b {
+    background:linear-gradient(#ba3225, #6c2712) repeat scroll 0 0 #af2900!important;
+}
+.ui-menu-button-container .ui-btn .ui-btn-inner {
+    line-height:16px;
+}
+.ui-menu-button-container .ui-btn .ui-btn-inner .ui-btn-text {
+    background-image:linear-gradient(#ba3225, #6c2712);
+    border-radius:4px;
+    color:#fff;
+    padding-top:11px;
+    height:24%;
+    line-height:1em;
+    vertical-align:middle;
+}
+#footer .ui-btn-up-c {
+    background-image:linear-gradient(#ba3225, #6c2712);
+}
+.ui-dialog-contain {
+    background:none repeat scroll 0 0 #af2900;
+}
+.ui-btn-hover-c {
+    border-color:#af2900!important;
+}
+.ui-btn-active {
+    background:linear-gradient(#ba3225, #6c2712) repeat scroll 0 0 #af2900;
+}
+.ui-body-c .ui-link {
+    color:#af2900;
+}
+.ui-body-c .ui-link:hover {
+    color:#333!important;
+}
+.ui-btn-hover-b {
+    background:linear-gradient(#ba3225, #6c2712) repeat scroll 0 0 #af2900;
+}
+.ui-btn-up-b {
+    background:linear-gradient(#ba3225, #6c2712) repeat scroll 0 0 #af2900;
+}
+.ui-tabbedBar {
+    border-color:#af2900;
+}
+.ui-focus, .ui-btn:focus {
+    box-shadow:0 0 3px #af2900 inset, 0 0 9px #af2900!important;
+}
+.ui-input-text.ui-focus, .ui-input-search.ui-focus {
+    box-shadow:0 0 12px #af2900!important;
+}
+.ui-btn-inner {
+    overflow:visible;
+}
+.ui-menu-button-container .ui-btn {
+    width:93px!important;
+}
+.ui-expander-indicator-more a, .ui-expander-indicator-less a {
+    color:#af2900;
+}
+.ui-btn-container {
+    padding-top:10px;
+}
+.ui-menu-button-container .ui-menu-button {
+    padding:0!important;
+}
+p#vipCode {
+    display:none;
+}
+p#passportNo {
+    display:none;
+}
+p#countryOfIssue {
+    display:none;
+}
+p#placeOfIssue {
+    display:none;
+}
+p#effectiveDate {
+    display:none;
+}
