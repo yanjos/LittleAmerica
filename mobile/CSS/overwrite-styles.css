@@ -1,5 +1,5 @@
 .logo.header {
-    background:none repeat scroll 0 0 #af2900;
+    background:none repeat scroll 0 0 #e0d9b7;
 }
 .card-required-field label:after, #termDetailLink:after {
     content:'*';
@@ -8,18 +8,18 @@
     content:'';
 }
 #header {
-    background:none repeat scroll 0 0 #af2900;
+    background:none repeat scroll 0 0 #9A8348;
     border-bottom:2px solid #fff;
     color:#fff;
 }
 #header .ui-btn-up-c {
-    background-image:linear-gradient(#ba3225, #6c2712);
+    background-image:linear-gradient(#e0d9b7, #9A8348);
 }
 .ui-content {
-    background-color:#e7e4dc;
+    background-color:#F6F4E3;
 }
 .ui-focus, .ui-btn:focus {
-    box-shadow:0 0 3px #af2900 inset, 0 0 9px #af2900;
+    box-shadow:0 0 3px #563B1A inset, 0 0 9px #563B1A;
 }
 .header>img {
     margin-top:21px;
@@ -31,22 +31,22 @@
     height:100%;
 }
 .ui-btn-up-b {
-    background:linear-gradient(#ba3225, #6c2712) repeat scroll 0 0 #af2900;
+    background:linear-gradient(#e0d9b7, #9A8348) repeat scroll 0 0  #9A8348;
 }
 .dwv.ui-header.ui-bar-b {
-    background:none repeat scroll 0 0 #af2900;
+    background:none repeat scroll 0 0 #9A8348;
 }
 .ui-msm-profileloginpagebean.ui-page.ui-body-c.ui-page-active.portrait {
-    background-color:#e7e4dc;
+    background-color:#F6F4E3;
 }
 .ui-bar-b {
-    background:linear-gradient(#ba3225, #6c2712) repeat scroll 0 0 #af2900!important;
+    background:linear-gradient(#e0d9b7, #9A8348) repeat scroll 0 0 #9A8348!important;
 }
 .ui-menu-button-container .ui-btn .ui-btn-inner {
     line-height:16px;
 }
 .ui-menu-button-container .ui-btn .ui-btn-inner .ui-btn-text {
-    background-image:linear-gradient(#ba3225, #6c2712);
+    background-image:linear-gradient(#e0d9b7, #9A8348);
     border-radius:4px;
     color:#fff;
     padding-top:11px;
@@ -55,37 +55,67 @@
     vertical-align:middle;
 }
 #footer .ui-btn-up-c {
-    background-image:linear-gradient(#ba3225, #6c2712);
+    background-image:linear-gradient(#e0d9b7, #9A8348);
 }
 .ui-dialog-contain {
-    background:none repeat scroll 0 0 #af2900;
+    background:none repeat scroll 0 0 #9A8348;
 }
-.ui-btn-hover-c {
-    border-color:#af2900!important;
+#footer .ui-btn.ui-btn-hover-c {
+    border-color:#563B1A!important;
+    background:#563B1A!important;
 }
 .ui-btn-active {
-    background:linear-gradient(#ba3225, #6c2712) repeat scroll 0 0 #af2900;
+    background:linear-gradient(#e0d9b7, #9A8348) repeat scroll 0 0 #9A8348;
 }
+.ui-content .ui-btn-up-c{
+    background:#9A8348!important;
+    color:#fff;
+}
+.ui-room-type-description, .ui-room-type-name{
+    color:#563B1A;
+}
+li.ui-li.ui-li-static.ui-btn-up-c{
+    color:#563B1A;
+    background: #EAE6CC !important;
+}
+.ui-listview li.ui-li.ui-li-static.ui-btn-up-c.ui-corner-top.ui-corner-bottom.ui-li-last{
+    background:#fff !important;
+    color:#563B1A;
+}
+
+.ui-content .ui-btn.ui-btn-hover-c, #headerRightBtn.ui-btn-hover-c, #headerLeftBtn.ui-btn-hover-c {
+    background:#563B1A!important;
+    color:#fff;
+}
+
+.ui-menu-button-container .ui-menu-button .ui-btn-up-c{
+    background:transparent !important;
+}
+
+.ui-menu-button-container .ui-menu-button .ui-btn.ui-btn-hover-c{
+    background: #EAE6CC !important;
+}
+
 .ui-body-c .ui-link {
-    color:#af2900;
+    color:#9A8348;
 }
 .ui-body-c .ui-link:hover {
-    color:#333!important;
+    color:#563B1A!important;
 }
 .ui-btn-hover-b {
-    background:linear-gradient(#ba3225, #6c2712) repeat scroll 0 0 #af2900;
+    background:linear-gradient(#e0d9b7, #9A8348) repeat scroll 0 0 #9A8348;
 }
 .ui-btn-up-b {
-    background:linear-gradient(#ba3225, #6c2712) repeat scroll 0 0 #af2900;
+    background:linear-gradient(#e0d9b7, #9A8348) repeat scroll 0 0 #9A8348;
 }
 .ui-tabbedBar {
-    border-color:#af2900;
+    border-color:#9A8348;
 }
 .ui-focus, .ui-btn:focus {
-    box-shadow:0 0 3px #af2900 inset, 0 0 9px #af2900!important;
+    box-shadow:0 0 3px #9A8348 inset, 0 0 9px #9A8348!important;
 }
 .ui-input-text.ui-focus, .ui-input-search.ui-focus {
-    box-shadow:0 0 12px #af2900!important;
+    box-shadow:0 0 12px #9A8348!important;
 }
 .ui-btn-inner {
     overflow:visible;
@@ -94,7 +124,7 @@
     width:93px!important;
 }
 .ui-expander-indicator-more a, .ui-expander-indicator-less a {
-    color:#af2900;
+    color:#9A8348;
 }
 .ui-btn-container {
     padding-top:10px;
