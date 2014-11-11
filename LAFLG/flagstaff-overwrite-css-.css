@@ -8,5 +8,8 @@
     display:none!important;
 }
 #vipCode, #gender, #dateofbirth, #nationality, #passport-info-fields {
-	display: none !important;
+    display:none!important;
+}
+a.nivo-control {
+	width: 13% !important;
 }
