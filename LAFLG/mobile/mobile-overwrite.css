@@ -15,6 +15,12 @@
 #header .ui-btn-up-c {
     background-image:linear-gradient(#e0d9b7, #9a8348);
 }
+a#termDetailLink {
+    color:#563b1a;
+}
+a#termDetailLink:hover, a#termDetailLink:active {
+    text-decoration:underline;
+}
 .ui-content {
     background-color:#f6f4e3;
 }
@@ -76,7 +82,7 @@
 }
 li.ui-li.ui-li-static.ui-btn-up-c {
     color:#563b1a;
-    background:#eae6cc!important;
+    background:#fefdf0!important;
 }
 .ui-listview li.ui-li.ui-li-static.ui-btn-up-c.ui-corner-top.ui-corner-bottom.ui-li-last {
     background:#fff!important;
