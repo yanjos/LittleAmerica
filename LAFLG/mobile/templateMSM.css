@@ -1,0 +1,107 @@
+#header {
+    background: #111111;
+    color: #ffffff;
+    border-color: #2A2A2A;
+    background-color: #111111;
+}
+#header .ui-btn-up-c {
+    background: #333333;
+    color: #ffffff;
+    border-color: #222222;
+    background-color: #333333;
+}
+#header .ui-btn-hover-c {
+    background: #444444;
+    color: #ffffff;
+    border-color: #000000;
+    background-color: #444444;
+}
+#header .ui-btn-down-c {
+    background: #3D3D3D;
+    color: #ffffff;
+    border-color: #000000;
+    background-color: #3D3D3D;
+}
+.ui-body-c {
+    background: #ffffff;
+    color: #000000;
+    border-color: #B3B3B3;
+    background-color: #ffffff;
+}
+.ui-content .ui-btn-up-c {
+    background: #EEEEEE;
+    color: #444444;
+    border-color: #CCCCCC;
+    background-color: #EEEEEE;
+}
+.ui-content .ui-btn-hover-c {
+    background: #DADADA;
+    color: #101010;
+    border-color: #BBBBBB;
+    background-color: #DADADA;
+}
+.ui-content .ui-btn-down-c {
+    background: #FDFDFD;
+    color: #111111;
+    border-color: #808080;
+    background-color: #FDFDFD;
+}
+#footer {
+    background: #111111;
+    color: #ffffff;
+    border-color: #2A2A2A;
+    background-color: #111111;
+}
+#footer .ui-btn-up-c {
+    background: #333333;
+    color: #ffffff;
+    border-color: #222222;
+    background-color: #333333;
+}
+#footer .ui-btn-hover-c {
+    background: #444444;
+    color: #ffffff;
+    border-color: #000000;
+    background-color: #444444;
+}
+#footer .ui-btn-down-c {
+    background: #3D3D3D;
+    color: #ffffff;
+    border-color: #000000;
+    background-color: #3D3D3D;
+}
+.ui-tabbedBar {
+    background: #6746eb;
+    border-color: rgba(255, 255, 255, 0);
+    background-color: #6746eb;
+}
+.logo.header {
+    background-color: #595959;
+}
+.logo.footer {
+    background-color: #595959;
+}
+.logo.site_info {
+    color: #FFF;
+}
+.dwv.ui-header.ui-bar-b {
+    background-color: #ed15ed;
+}
+.header-section {
+    text-align: center;
+}
+.hcommline {
+    clear: both;
+    float: none;
+}
+.logo {
+    clear: both;
+    float: none;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.hs-logo {
+    float: none;
+}
