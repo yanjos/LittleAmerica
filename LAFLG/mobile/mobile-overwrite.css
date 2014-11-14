@@ -134,19 +134,7 @@ li.ui-li.ui-li-static.ui-btn-up-c {
 .ui-menu-button-container .ui-menu-button {
     padding:0!important;
 }
-p#vipCode {
-    display:none;
-}
-p#passportNo {
-    display:none;
-}
-p#countryOfIssue {
-    display:none;
-}
-p#placeOfIssue {
-    display:none;
-}
-p#effectiveDate {
+p#vipCode, p#passportNo, p#countryOfIssue, p#placeOfIssue, p#effectiveDate {
     display:none;
 }
 .ui-guest-rooms-list li .ui-room-type-description {
