@@ -149,3 +149,6 @@ p#placeOfIssue {
 p#effectiveDate {
     display:none;
 }
+.ui-guest-rooms-list li .ui-room-type-description {
+    display:block;
+}
