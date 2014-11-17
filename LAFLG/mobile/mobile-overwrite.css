@@ -9,7 +9,7 @@
 }
 #header {
     background:none repeat scroll 0 0 #9a8348;
-    border-bottom:2px solid #fff;
+    border-bottom:2px solid #9a8348;
     color:#fff;
 }
 #header .ui-btn-up-c, .ui-scrollview-view .ui-btn-up-c {
@@ -28,11 +28,10 @@ a#termDetailLink:hover, a#termDetailLink:active {
     box-shadow:0 0 3px #563b1a inset, 0 0 9px #563b1a;
 }
 .header>img {
-    margin-top:21px;
+    margin-top: 14px;
+    width: 20%;
 }
-#content_wrapper {
-    padding-top:25px!important;
-}
+
 .ui-menu-button-container .ui-btn .ui-icon {
     height:100%;
 }
@@ -70,6 +69,7 @@ a#termDetailLink:hover, a#termDetailLink:active {
 #footer .ui-btn.ui-btn-hover-c {
     border-color:#563b1a!important;
     background:#563b1a!important;
+    min-height:69px!important;
 }
 .ui-btn-active {
     background:linear-gradient(#e0d9b7, #9a8348) repeat scroll 0 0 #9a8348;
