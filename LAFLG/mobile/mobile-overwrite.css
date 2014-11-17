@@ -12,7 +12,7 @@
     border-bottom:2px solid #fff;
     color:#fff;
 }
-#header .ui-btn-up-c {
+#header .ui-btn-up-c, .ui-scrollview-view .ui-btn-up-c {
     background-image:linear-gradient(#e0d9b7, #9a8348);
 }
 a#termDetailLink {
@@ -62,7 +62,7 @@ a#termDetailLink:hover, a#termDetailLink:active {
 }
 #footer .ui-btn-up-c {
     background-image:linear-gradient(#e0d9b7, #9a8348);
-    min-height:69px !important;
+    min-height:69px!important;
 }
 .ui-dialog-contain {
     background:none repeat scroll 0 0 #9a8348;
@@ -122,7 +122,7 @@ li.ui-li.ui-li-static.ui-btn-up-c {
 }
 .ui-btn-inner {
     overflow:visible;
-    white-space: normal !important;
+    white-space:normal!important;
 }
 .ui-menu-button-container .ui-btn {
     width:93px!important;
@@ -143,5 +143,5 @@ p#vipCode, p#passportNo, p#countryOfIssue, p#placeOfIssue, p#effectiveDate {
     display:block;
 }
 .ui-navbar li .ui-btn-icon-top .ui-btn-inner {
-    padding-top: 30px !important;
+    padding-top:30px!important;
 }
