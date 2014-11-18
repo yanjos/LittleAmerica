@@ -13,3 +13,6 @@
 a.nivo-control {
     width:13%!important;
 }
+.checkbox a:hover, .checkbox a:active {
+	text-decoration: underline;
+}
