@@ -1,15 +1,15 @@
 #no-results-messaging .message-dotted {
-display:block!important;
+    display:block!important;
 }
 .booking-path label.required:after {
-content:'*'
+    content:'*'
 }
 #packageResults.room-extras {
-display:none!important;
+    display:none!important;
 }
-#vipCode, #gender, #dateofbirth, #nationality, #passport-info-fields {
-display:none!important;
+#vipCode, #gender, #dateofbirth, #nationality, #passport-info-fields, #add_options_desc, #add_options {
+    display:none!important;
 }
 a.nivo-control {
-width: 13% !important;
+    width:13%!important;
 }
