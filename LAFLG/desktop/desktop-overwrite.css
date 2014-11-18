@@ -1,3 +1,6 @@
+.custom-reservation-rate-details #rate-details .group {
+    margin-top:10px;
+}
 #no-results-messaging .message-dotted {
     display:block!important;
 }
@@ -13,6 +16,9 @@
 a.nivo-control {
     width:13%!important;
 }
-.checkbox a:hover, .checkbox a:active {
-	text-decoration: underline;
+.checkbox a:hover, .checkbox a:active, .checkbox a {
+    text-decoration:underline;
+}
+.confirmation-page>div, .confirmation-page .custom-confirmation-details {
+   min-height: 266px !important;
 }
