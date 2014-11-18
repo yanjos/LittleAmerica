@@ -20,5 +20,14 @@ a.nivo-control {
     text-decoration:underline;
 }
 .confirmation-page>div, .confirmation-page .custom-confirmation-details {
-   min-height: 266px !important;
+    min-height:266px!important;
+}
+#rate-details h2 {
+font-size: 13px !important;
+font-weight: bold;
+border: 0 !important;
+padding-left: 10px !important
+}
+#rate-details p{
+	padding-left:10px !important;
 }
