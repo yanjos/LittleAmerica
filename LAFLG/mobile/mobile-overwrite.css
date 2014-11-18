@@ -28,10 +28,9 @@ a#termDetailLink:hover, a#termDetailLink:active {
     box-shadow:0 0 3px #563b1a inset, 0 0 9px #563b1a;
 }
 .header>img {
-    margin-top: 14px;
-    width: 20%;
+    margin-top:14px;
+    width:20%;
 }
-
 .ui-menu-button-container .ui-btn .ui-icon {
     height:100%;
 }
@@ -83,7 +82,7 @@ a#termDetailLink:hover, a#termDetailLink:active {
 }
 li.ui-li.ui-li-static.ui-btn-up-c {
     color:#563b1a;
-    background:#fefdf0!important;
+    background:#f6f4e3!important;
 }
 .ui-listview li.ui-li.ui-li-static.ui-btn-up-c.ui-corner-top.ui-corner-bottom.ui-li-last {
     background:#fff!important;
