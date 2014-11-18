@@ -19,15 +19,15 @@ a.nivo-control {
 .checkbox a:hover, .checkbox a:active, .checkbox a {
     text-decoration:underline;
 }
-.confirmation-page>div, .confirmation-page .custom-confirmation-details {
-    min-height:266px!important;
+.custom-confirmation-details, .confirmation-page .custom-confirmation-details {
+    min-height:288px!important;
 }
 #rate-details h2 {
-font-size: 13px !important;
-font-weight: bold;
-border: 0 !important;
-padding-left: 10px !important
+    font-size: 13px !important;
+    font-weight: bold;
+    border: 0 !important;
+    padding-left: 10px !important
 }
-#rate-details p{
-	padding-left:10px !important;
+#rate-details p {
+    padding-left:10px !important;
 }
