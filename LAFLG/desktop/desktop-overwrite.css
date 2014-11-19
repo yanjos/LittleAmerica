@@ -20,8 +20,8 @@ a.nivo-control {
     text-decoration:underline;
 }
 .custom-reservation-rate-details, .custom-confirmation-details {
-    min-height: 289px!important;
-    height: 289px!important;
+    min-height:289px!important;
+    height:289px!important;
 }
 #rate-details h2 {
     font-size:14px!important;
@@ -32,4 +32,7 @@ a.nivo-control {
 }
 #rate-details p {
     padding-left:10px!important;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+    background-color:#e3dabb!important;
 }
