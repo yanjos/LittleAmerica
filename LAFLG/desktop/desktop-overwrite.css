@@ -1,3 +1,38 @@
+/*Rates by Room START*/
+section.room-types, .rate-code .ui-view-room-details {
+    display:none;
+}
+.room-thumb .quickview span{
+	min-width:65px;
+}
+.room-short-desc.room-long-desc .read-more, .room-short-desc.room-long-desc .read-less{
+	display:inline !important;
+}
+.read-more a, .read-less a {
+	display: block;
+}
+.read-more .viewmore, .read-less .viewless {
+	width: 100px;
+}
+
+/*Room popup modal START*/
+div#quick_view {
+   overflow: hidden;
+}
+
+.room-details-pop-left #room-detail-policy-amenities, .room-details-pop-right .viewdetails, .pop-room-rate .room-rate {
+	display: none;
+}
+
+.room-details-pop-right {
+	margin-left: 20px !important;
+}
+
+a.ui-dialog-titlebar-close.ui-corner-all {
+	width: 80px !important;
+}
+/*Room popup modal END*/
+/*Rates by Room END*/
 .custom-reservation-rate-details #rate-details .group {
     margin-top:10px;
 }
