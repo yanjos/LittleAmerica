@@ -14,7 +14,15 @@ section.room-types, .rate-code .ui-view-room-details {
 .read-more .viewmore, .read-less .viewless {
 	width: 100px;
 }
-
+.show-hide-rooms {
+	width: 179px !important;
+	float: right;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
 /*Room popup modal START*/
 div#quick_view {
    overflow: hidden;
