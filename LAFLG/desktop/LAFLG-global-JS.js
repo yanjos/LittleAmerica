@@ -1,4 +1,3 @@
-
 <script>
 /*LATEST GLOBAL*/
 $(window).load(function(){
@@ -160,6 +159,12 @@ $(document).ready(function(){
 	$(document).ready(function(){
 		$('.tag-manager script').remove();
                 /*Adds different calendar icon*/
-                $('.ui-datepicker-trigger').attr('src','https://images.webhotel.microsdc.us:443/global_tenant/get/w/18/h/17/calendar_icon.image');
+                $('.ui-datepicker-trigger').attr('src','https://images.webhotel.microsdc.us/global_tenant/get/w/18/h/17/calendar_icon.image');
+
+           /*expander html fix for MCP*/
+               //Removes existing viewmore html
+                $('.viewmore').remove();
+               //Adds correct viewmore html
+                $('.read-more a').append('<div class="viewmore">View More</div>');
 	});
 </script>
