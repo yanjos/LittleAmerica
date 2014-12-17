@@ -1,5 +1,6 @@
 <script>
 /*LATEST GLOBAL*/
+
 $(window).load(function(){
 /*Adds class to sign in when signed out*/
 if(!$('.welcome-message').length){
@@ -155,10 +156,14 @@ $(document).ready(function(){
     });*/
 });
 
-</script>
-
-<script>
+</script><script>
 	$(document).ready(function(){
 		$('.tag-manager script').remove();
+                /*expander html fix for MCP*/
+ 
+               //Removes existing viewmore html
+               $('.viewmore').remove();
+               //Adds correct viewmore html
+               $('.read-more a').append('<div class="viewmore">View More</div>');
 	});
 </script>
