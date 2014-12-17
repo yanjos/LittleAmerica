@@ -1,0 +1,61 @@
+#quick_view .image-container {
+    pointer-events:none;
+}
+.ui-dialog .image-container img {
+    max-width:396px!important;
+}
+section.room-types, .rate-code .ui-view-room-details {
+    display:none;
+}
+.room-thumb .quickview span {
+    min-width:65px;
+}
+.room-short-desc.room-long-desc .read-more, .room-short-desc.room-long-desc .read-less {
+    display:inline!important;
+}
+.room-short-desc.room-long-desc .details{
+	margin-left:189px !important;
+}
+.read-more a, .read-less a {
+    display:block;
+}
+.read-more .viewmore, .read-less .viewless {
+    width:100px;
+    line-height:12px;
+}
+.show-hide-rooms {
+    width:179px!important;
+    float:right;
+    border-radius:3px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    margin-bottom:10px;
+    margin-right:10px;
+    background-image:linear-gradient(#ba3225, #6c2712)!important;
+}
+.custom-body .show-hide-rooms .view_rooms, .custom-body .show-hide-rooms .hide_rooms {
+    text-align:center;
+}
+div#quick_view {
+    overflow:hidden;
+}
+.room-details-pop-left #room-detail-policy-amenities, .room-details-pop-right .viewdetails, .pop-room-rate .room-rate {
+    display:none;
+}
+.room-details-pop-right {
+    margin-left:20px!important;
+}
+a.ui-dialog-titlebar-close.ui-corner-all {
+    font-weight:bold;
+    white-space:nowrap;
+    width:84px!important;
+}
+#no-results-messaging .message-dotted {
+    display:block!important;
+}
+.booking-path label.required:after {
+    content:'*'
+}
+p#passportNo, p#countryOfIssue, p#placeOfIssue, p#effectiveDate, div#nationality, p#gender, p#vipCode, p#dateofbirth, #add_options, #add_options_desc {
+    display:none!important;
+}
